@@ -178,7 +178,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@davidrobb2](https://twitter.com/davidrobb2) - drobb2011@gmail.com@drobb2011@gmail.com_client.com
+Your Name - [@davidrobb2](https://twitter.com/davidrobb2) - drobb2011@gmail.com
 
 Project Link: [https://github.com/drobb2020/repo_name](https://github.com/drobb2020/repo_name)
 
