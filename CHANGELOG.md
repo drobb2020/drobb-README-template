@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.0.0
+## v1.1.0
 
 ### Added or Changed
 - Added this changelog :)
@@ -9,6 +9,7 @@
 - Added more "Built With" frameworks/libraries
 - Changed table of contents to start collapsed
 - Added checkboxes for major features on roadmap
+- Added .markdownlint.json file to exclude errors in the markdown.
 
 ### Removed
 

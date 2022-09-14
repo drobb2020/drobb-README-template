@@ -112,6 +112,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -123,21 +124,24 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
+
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
+
 3. Install NPM packages
+
    ```sh
    npm install
    ```
+
 4. Enter your API in `config.js`
+
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -147,8 +151,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -164,8 +166,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/drobb2020/drobb-README-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -183,16 +183,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -202,8 +198,6 @@ Your Name - [@davidrobb2](https://twitter.com/davidrobb2) - drobb2011@gmail.com
 Project Link: [https://github.com/your_username/repo_name](https://github.com/drobb2020/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -220,8 +214,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
