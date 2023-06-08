@@ -1,12 +1,16 @@
 {
-    "cSpell.words": [
-      "Cheatsheet",
-      "davidrobb",
-      "drobb",
-      "Flexbox",
-      "jumpstart",
-      "Malven's",
-      "markdownlint",
-      "Roadmap"
-    ]
+  "cSpell.words": [
+    "Cheatsheet",
+    "davidrobb",
+    "drobb",
+    "Flexbox",
+    "HTMX",
+    "jumpstart",
+    "Laravel",
+    "Malven's",
+    "markdownlint",
+    "pycache",
+    "Roadmap",
+    "Tailwindcss"
+  ]
 }
