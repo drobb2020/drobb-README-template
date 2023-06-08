@@ -3,10 +3,11 @@
 # Setup
 
 1. Clone this repository into your project
-2. Rename BLANK_README.md to README.md
-3. Delete the ,gitignore file from this repo, and rename either gitignore-django or gitignore-react to .gitignore. Delete the other unused gitignore file
-4. If this is a Django project rename ruff.toml to .ruff.toml, and flake8 to .flake8, otherwise these files can be deleted.
-5. Rename markdownlint.json to .markdownlint.json
+2. Rename this README.md file instructions.md
+3. Rename BLANK_README.md to README.md
+4. Delete the .gitignore file from this repo, and rename either gitignore-django or gitignore-react to .gitignore. Delete the other unused gitignore file
+5. If this is a Django project rename ruff.toml to .ruff.toml, and flake8 to .flake8, otherwise these files can be deleted.
+6. Rename markdownlint.json to .markdownlint.json
 
 # Project Completion
 
